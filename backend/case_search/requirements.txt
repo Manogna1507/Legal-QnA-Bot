@@ -1,0 +1,13 @@
+# Web server
+flask>=3.0
+flask-cors>=4.0
+
+# NLP / search
+scikit-learn>=1.4
+numpy>=1.26
+rank_bm25>=0.2.2
+sentence-transformers>=2.7   # optional but recommended
+
+# HuggingFace dataset loading
+datasets>=2.19
+huggingface_hub>=0.22
