@@ -1,0 +1,3 @@
+# Ignore cache files
+backend/case_search/cache/
+*.pkl
